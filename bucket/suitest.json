@@ -1,0 +1,15 @@
+{
+    "version": "1.0.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/mulhamna/suitest/releases/download/v1.0.3/suitest_windows_amd64.zip",
+            "bin": [
+                "suitest.exe"
+            ],
+            "hash": "7bcfec93198d18da5a442233dda7bba9f6e647c756648e60c3725f4123a14670"
+        }
+    },
+    "homepage": "https://github.com/mulhamna/suitest",
+    "license": "MIT",
+    "description": "AI-powered testing agent CLI — provider-agnostic"
+}
