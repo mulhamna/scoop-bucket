@@ -1,12 +1,12 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mulhamna/suitest/releases/download/v1.1.0/suitest_windows_amd64.zip",
+            "url": "https://github.com/mulhamna/suitest/releases/download/v1.2.0/suitest_windows_amd64.zip",
             "bin": [
                 "suitest.exe"
             ],
-            "hash": "2d05dd25df20e82b0df1674574bfbe4a9967ff69b1d146c4aeebc3f4835fc378"
+            "hash": "362be30a569a77d5c59c92ac9ad9f1be7d9db60e867aab875ba1a076ef79b104"
         }
     },
     "homepage": "https://github.com/mulhamna/suitest",
