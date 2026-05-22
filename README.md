@@ -1,3 +1,15 @@
 # scoop-bucket
 
-Scoop bucket for Mulham CLI tools.
+Add bucket:
+
+```powershell
+scoop bucket add mulhamna-scoop https://github.com/mulhamna/scoop-bucket
+```
+
+Install apps:
+
+```powershell
+scoop install mulhamna-scoop/broask
+scoop install mulhamna-scoop/jirac
+scoop install mulhamna-scoop/suitest
+```
