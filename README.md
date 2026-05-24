@@ -11,5 +11,6 @@ Install apps:
 ```powershell
 scoop install mulhamna-scoop/broask
 scoop install mulhamna-scoop/jirac
+scoop install mulhamna-scoop/jirac-mcp
 scoop install mulhamna-scoop/suitest
 ```
