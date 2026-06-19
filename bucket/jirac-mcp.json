@@ -1,5 +1,5 @@
 {
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "Typed Jira MCP server built in Rust.",
   "homepage": "https://github.com/mulhamna/jira-commands",
   "license": [
@@ -23,12 +23,12 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://github.com/mulhamna/jira-commands/releases/download/jira-mcp-v2.2.0/jirac-mcp-windows-x86_64.zip",
-      "hash": "738cf07da7b60d5d498124b3d47648b0a0968a4ef468d7a49202da230c1770c4"
+      "url": "https://github.com/mulhamna/jira-commands/releases/download/jira-mcp-v2.2.1/jirac-mcp-windows-x86_64.zip",
+      "hash": "ff2ab1ed692b065bf0e20232c3a404cb9755f53c2e3b6eccedd5677e42bf6939"
     },
     "arm64": {
-      "url": "https://github.com/mulhamna/jira-commands/releases/download/jira-mcp-v2.2.0/jirac-mcp-windows-aarch64.zip",
-      "hash": "45324a719e51ba51407eb40ca31fd4bb5f48c3523091b4c42c2706ebe0a688da"
+      "url": "https://github.com/mulhamna/jira-commands/releases/download/jira-mcp-v2.2.1/jirac-mcp-windows-aarch64.zip",
+      "hash": "dc96311085e211f78c69843d52a73d4becb418bac60ebea150afd3e70ff60d7b"
     }
   }
 }
