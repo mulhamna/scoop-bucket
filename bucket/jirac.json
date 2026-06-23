@@ -1,5 +1,5 @@
 {
-  "version": "2.3.2",
+  "version": "2.3.3",
   "description": "Fast Jira CLI and TUI built in Rust.",
   "homepage": "https://github.com/mulhamna/jira-commands",
   "license": [
@@ -22,12 +22,12 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://github.com/mulhamna/jira-commands/releases/download/v2.3.2/jirac-windows-x86_64.zip",
-      "hash": "046d828098fed07cc5ac5947628367b2984cb3fd133e12b7855e9dd92b0f2796"
+      "url": "https://github.com/mulhamna/jira-commands/releases/download/v2.3.3/jirac-windows-x86_64.zip",
+      "hash": "4a09b4301eea2edc9125c1c271a62695528b0eec4a1416f7c2ca64d26b7cb12b"
     },
     "arm64": {
-      "url": "https://github.com/mulhamna/jira-commands/releases/download/v2.3.2/jirac-windows-aarch64.zip",
-      "hash": "ecd6c8d5bc338a5b2f6b5697db5f6572e42c33041d6a74e417e5340ec3604a4b"
+      "url": "https://github.com/mulhamna/jira-commands/releases/download/v2.3.3/jirac-windows-aarch64.zip",
+      "hash": "308fe24d08a6471d55b055463ad0412469847754c30f5879c9e95b45dff72eb9"
     }
   }
 }
