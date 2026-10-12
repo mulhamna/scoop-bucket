@@ -6,11 +6,11 @@ Scoop manifests for Mulhamna's command-line tools on Windows.
 
 | Package | Description | Install |
 |---|---|---|
-| [addx](https://github.com/mulhamna/addx) | Universal AI tooling manager with a mouse-clickable TUI | `scoop install addx` |
-| [broask](https://github.com/mulhamna/broask) | Plays a sound when CLI tools ask for confirmation | `scoop install broask` |
-| [clickupc](https://github.com/mulhamna/clickup-commands) | Unofficial ClickUp CLI and MCP server | `scoop install clickupc` |
 | [jirac](https://github.com/mulhamna/jira-commands) | Fast Jira CLI and TUI built in Rust | `scoop install jirac` |
 | [jirac-mcp](https://github.com/mulhamna/jira-commands) | Typed Jira MCP server built in Rust | `scoop install jirac-mcp` |
+| [clickupc](https://github.com/mulhamna/clickup-commands) | Unofficial ClickUp CLI and MCP server | `scoop install clickupc` |
+| [broask](https://github.com/mulhamna/broask) | Plays a sound when CLI tools ask for confirmation | `scoop install broask` |
+| [addx](https://github.com/mulhamna/addx) | Universal AI tooling manager with a mouse-clickable TUI | `scoop install addx` |
 
 ## Install
 
@@ -23,11 +23,11 @@ scoop bucket add mulhamna-scoop https://github.com/mulhamna/scoop-bucket
 Install packages by name:
 
 ```powershell
-scoop install addx
-scoop install broask
-scoop install clickupc
 scoop install jirac
 scoop install jirac-mcp
+scoop install clickupc
+scoop install broask
+scoop install addx
 ```
 
 Update Scoop and installed packages:
