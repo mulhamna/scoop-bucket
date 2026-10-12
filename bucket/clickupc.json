@@ -1,0 +1,39 @@
+{
+  "version": "1.0.1",
+  "description": "Unofficial ClickUp CLI and MCP server",
+  "homepage": "https://github.com/mulhamna/clickup-commands",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/mulhamna/clickup-commands/releases/download/v1.0.1/clickupc-windows-x86_64.zip",
+      "hash": "591e98388449f1302556698fbeb6cdf22063e9c9db666f4f016b0904cf0140bf",
+      "bin": [
+        [
+          "clickupc-windows-x86_64.exe",
+          "clickupc"
+        ]
+      ]
+    },
+    "arm64": {
+      "url": "https://github.com/mulhamna/clickup-commands/releases/download/v1.0.1/clickupc-windows-aarch64.zip",
+      "hash": "901049b4219f474982d07bd6d69d118b3c77f28bbab2e74918d3794996c73530",
+      "bin": [
+        [
+          "clickupc-windows-aarch64.exe",
+          "clickupc"
+        ]
+      ]
+    }
+  },
+  "checkver": "github",
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/mulhamna/clickup-commands/releases/download/v$version/clickupc-windows-x86_64.zip"
+      },
+      "arm64": {
+        "url": "https://github.com/mulhamna/clickup-commands/releases/download/v$version/clickupc-windows-aarch64.zip"
+      }
+    }
+  }
+}
