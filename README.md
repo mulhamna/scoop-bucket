@@ -9,6 +9,7 @@ Scoop manifests for Mulhamna's command-line tools on Windows.
 | [jirac](https://github.com/mulhamna/jira-commands) | Fast Jira CLI and TUI built in Rust | `scoop install jirac` |
 | [jirac-mcp](https://github.com/mulhamna/jira-commands) | Typed Jira MCP server built in Rust | `scoop install jirac-mcp` |
 | [clickupc](https://github.com/mulhamna/clickup-commands) | Unofficial ClickUp CLI and MCP server | `scoop install clickupc` |
+| [trelloc](https://github.com/mulhamna/trello-commands) | Unofficial Trello CLI and MCP server | `scoop install trelloc` |
 | [broask](https://github.com/mulhamna/broask) | Plays a sound when CLI tools ask for confirmation | `scoop install broask` |
 | [addx](https://github.com/mulhamna/addx) | Universal AI tooling manager with a mouse-clickable TUI | `scoop install addx` |
 
@@ -26,6 +27,7 @@ Install packages by name:
 scoop install jirac
 scoop install jirac-mcp
 scoop install clickupc
+scoop install trelloc
 scoop install broask
 scoop install addx
 ```
