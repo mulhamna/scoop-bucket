@@ -1,12 +1,12 @@
 {
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Unofficial Trello CLI and MCP server",
   "homepage": "https://github.com/mulhamna/trello-commands",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/mulhamna/trello-commands/releases/download/v1.0.1/trelloc-windows-x86_64.zip",
-      "hash": "790b1e0d99b927939975e1af85837a8eb4f6bcf08f68812efa1d1d52a375a6b2",
+      "url": "https://github.com/mulhamna/trello-commands/releases/download/v1.1.0/trelloc-windows-x86_64.zip",
+      "hash": "1b39210eeda0ed1560d65fe360c8d0ead4961649f84d9b867735cf03571037ae",
       "bin": [
         [
           "trelloc-windows-x86_64.exe",
@@ -15,8 +15,8 @@
       ]
     },
     "arm64": {
-      "url": "https://github.com/mulhamna/trello-commands/releases/download/v1.0.1/trelloc-windows-aarch64.zip",
-      "hash": "6429eca3737c49d625cc6e4579668f3d3a9da8e0c4f30655c638180079edec6a",
+      "url": "https://github.com/mulhamna/trello-commands/releases/download/v1.1.0/trelloc-windows-aarch64.zip",
+      "hash": "410a6485e62ad06c3e6d81ca8230005b26616c15a4a06d5b97572a15a107f3c1",
       "bin": [
         [
           "trelloc-windows-aarch64.exe",
